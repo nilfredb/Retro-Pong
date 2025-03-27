@@ -15,7 +15,6 @@ It features a retro interface, basic CPU paddle AI, a main menu, and win conditi
 
 📷 Screenshots
 --------------
-Add your gameplay screenshots below:
 
 - ![Gameplay 1](./assets/3.png)
 - ![Gameplay 2](./assets/2.png)
